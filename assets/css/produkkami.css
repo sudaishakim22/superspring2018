@@ -1,0 +1,12 @@
+#page8{
+	height: 1000px; 
+	border-top-style: none;
+	background-image: url("../../produkkami/page8.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	border : 1px solid red;
+}
+.gps{
+	text-align: center;
+}	

@@ -1,0 +1,116 @@
+#superspring{
+	border-top-style: none;
+}
+
+/*page 1*/
+#page1{
+	height: 1100px; 
+	border-top-style: none;
+	background-image: url("../../bg/page1.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	border : 1px solid red; 
+}
+#btn1{
+	position: absolute;
+	bottom: 100px;
+	left: 240px;
+	height: 70px;
+	width: 460px;
+}
+
+/*page 2*/
+#page2{
+	height: 1100px; 
+	border-top-style: none;
+	background-image: url("../../bg/page2.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	border : 1px solid red; 
+}
+#btn2{
+	position: absolute;
+	bottom: 150px;
+	left: 240px;
+	height: 70px;
+	width: 460px;
+}
+
+/*page 3*/
+#page3{
+	height: 1100px; 
+	border-top-style: none;
+	background-image: url("../../bg/page3.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	border : 1px solid red; 
+}
+#btn3{
+	position: absolute;
+	bottom: 150px;
+	left: 240px;
+	height: 70px;
+	width: 460px;
+}
+
+/*page 4*/
+#page4{
+	height: 1100px; 
+	border-top-style: none;
+	background-image: url("../../bg/page4.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	border : 1px solid red; 
+}
+
+/*page 5*/
+#page5{
+	height: 700px; 
+	border-top-style: none;
+	background-image: url("../../bg/page5.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	border : 1px solid red; 
+}
+
+/*page 6*/
+#page6{
+	height: 1150px; 
+	border-top-style: none;
+	background-image: url("../../bg/page6.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	border : 1px solid red; 
+}
+
+/*-------*/
+
+#testimoni1{
+	color : #3c556b;
+}
+
+#btn4{
+	position: absolute;
+	left: 160px;
+	top: 150px;
+	height: 50px;
+	width: 400px;
+}
+
+#row1{
+	margin-left: 350px;
+}
+
+.bg{
+	background-color: #21b3d9;
+	margin-top: 100px;
+}
+
+
+
